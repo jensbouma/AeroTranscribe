@@ -1,6 +1,6 @@
-# AeroTranscribe
+# AeroTranscribe.com
 
-**Wideband VHF capture with automated Voice Transcription for pilots**
+**Wideband VHF capture with automated Voice Transcription for pilots**\
 Using this system, pilots can capture a wide range of VHF radio frequencies, allowing them to monitor multiple communication channels simultaneously. This enables them to stay informed about various air traffic control communications, weather updates, and pilot-to-pilot communications.
 
 The automated voice transcription feature converts the received audio signals into written text in real-time. This transcription is displayed on a compatible device such as a smartphone, cockpit display, tablet, or head-up display, ensuring pilots can read the messages without the need for manual transcription or distracting voice playback.
