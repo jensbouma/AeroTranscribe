@@ -5,6 +5,7 @@ WORKDIR /python-docker
 COPY requirements.txt requirements.txt
 RUN apt-get update && apt-get install -y git 
 RUN pip3 install -r requirements.txt
+RUN pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 RUN pip3 install "git+https://github.com/openai/whisper.git"
 RUN apt-get install -y ffmpeg
 
